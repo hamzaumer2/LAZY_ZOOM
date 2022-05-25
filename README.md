@@ -11,7 +11,7 @@ The program will open the given link in the default browser at the time provided
 
 ***********************************************************************************************************************************
 
-# NEW FEATURES ARE BEING IMPLEMENTED. AND WILL BE AVAILABLE SOOM
+# NEW FEATURES ARE BEING IMPLEMENTED. AND WILL BE AVAILABLE SOON
 
 ### 1. BYPASS CONFRIMATION TO JOIN CLASS
 ### 2. AUTOMATICALLY CONNECT TO AUDIO
