@@ -10,7 +10,7 @@ payment = ""
 print("***************************     LAZY CLASSES     ***************************")
 print("**********************     DEVELOPED BY HAMZA UMER    **********************")
 
-classes = int(input("How Many Classes do you have today?"))
+classes = int(input("How many classes do you have today?"))
 done = 0
 joiined = 0
 link_arr = []
@@ -35,3 +35,4 @@ while joined < classes:
         print("JOINING CLASS :D")
         webbrowser.open(link_arr[joined])
         joined = joined + 1
+
